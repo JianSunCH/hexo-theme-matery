@@ -383,16 +383,14 @@ tags:
 ## Screenshot
 
 ### Home
-
-![首页](http://static.blinkfox.com/matery-20181202-1.png)
-
-![首页推荐文章](http://static.blinkfox.com/matery-20181202-2.png)
-
-![首页文章列表](http://static.blinkfox.com/matery-20181202-3.png)
-
-![首页文章列表](http://static.blinkfox.com/matery-20181202-7.png)
-
-![首页文章列表](http://static.blinkfox.com/matery-20181202-8.png)
+![avater](http://cdn.sunjian.xyz/blogreadme1.png)
+![avater](http://cdn.sunjian.xyz/blogreadme2.png)
+![avater](http://cdn.sunjian.xyz/blogreadme3.png)
+![avater](http://cdn.sunjian.xyz/blogreadme4.png)
+![avater](http://cdn.sunjian.xyz/blogreadme5.png)
+### About Me
+![avater](http://cdn.sunjian.xyz/blogreadme6.png)
+![avater](http://cdn.sunjian.xyz/blogreadme7.png)
 
 ## Custom modification
 
