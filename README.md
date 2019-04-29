@@ -29,7 +29,7 @@ Click [here](https://codeload.github.com/blinkfox/hexo-theme-matery/zip/master) 
 to your `themes` folder of your Hexo.Of course,you can uer `Git clone` to download in your `themes` folder.
 
 ```bash
-git clone https://github.com/blinkfox/hexo-theme-matery.git
+git clone https://github.com/JianSunCH/hexo-theme-matery.git
 ```
 
 ## Configuration
